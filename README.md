@@ -3,7 +3,7 @@
 My name is Nikita, and I’ve been a professional Software Engineer for over 5 years. My main interests are backend development, distributed systems, Java, and Go.
 
 - 🖥️ I've been coding in Java primarily for over 6 years
-- 🔭 I'm currently developing [a website](https://englab.net) for English learners
+- 🔭 I'm currently developing a [website](https://englab.net) for English learners
 - 🧪 I'm also working on [Testpoint](https://github.com/nikitakuchur/testpoint), a CLI tool for testing REST endpoints
 
 <!--
