@@ -5,6 +5,7 @@ My name is Nikita, and I’ve been a professional Software Engineer for over 5 y
 - 🖥️ I've been coding in Java primarily for over 6 years
 - 🔭 I'm currently developing a [website](https://englab.net) for English learners
 - 🧪 I'm also working on [Testpoint](https://github.com/nikitakuchur/testpoint), a CLI tool for testing REST endpoints
+- 💼 If you're interested in hiring me, you can contact me via [LinkedIn](https://www.linkedin.com/in/nikitakuchur/) or at <nikitakuchur@gmail.com>
 
 <!--
 **nikitakuchur/nikitakuchur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
